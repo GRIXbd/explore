@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 1080" width="100%" height="100%">
+  <defs>
+    <style>
+      /* ছবির অক্ষরের সাথে হুবহু মিল রাখতে Playfair Display ফন্ট লোড করা হচ্ছে */
+      @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@900&amp;display=swap');
+    </style>
+  </defs>
+  
+  <!-- ১ম ছবির মতো নিখুঁত কালো ব্যাকগ্রাউন্ড -->
+  <rect width="100%" height="100%" fill="#030303"/>
+  
+  <!-- ১ম ছবির মতো ক্রিম/সাদাটে রঙের GRIX টেক্সট -->
+  <text x="960" y="670" 
+        text-anchor="middle" 
+        font-family="'Playfair Display', serif" 
+        font-weight="900" 
+        font-size="680" 
+        fill="#F4EFE6" 
+        letter-spacing="25">GRIX</text>
+</svg>

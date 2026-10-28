@@ -1,0 +1,40 @@
+{
+  "name": "GRIX — We Offer You What You Deserve",
+  "short_name": "GRIX",
+  "description": "Premium unisex clothing from Dhaka, Bangladesh. Quality, customisation, and delivery across 64 districts.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f1ece2",
+  "theme_color": "#f1ece2",
+  "lang": "en",
+  "dir": "ltr",
+  "categories": ["shopping", "lifestyle"],
+  "icons": [
+    {
+      "src": "grix-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "grix-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Contact",
+      "url": "./index.html#contact",
+      "description": "Talk to GRIX"
+    },
+    {
+      "name": "FAQ",
+      "url": "./index.html#faq",
+      "description": "Delivery, returns, customisation"
+    }
+  ]
+}
